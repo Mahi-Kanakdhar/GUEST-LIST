@@ -1,0 +1,34 @@
+h1{
+    margin-bottom: 30px;
+    color:purple;
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    border:solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: pink;
+    font-weight: bold;
+}
+
+#Search_name{
+    color:blueviolet;
+}
+
+#Enter_name{
+    color:blueviolet;
+}
+
+hr{
+    margin-bottom: 20px;
+    }
+    body{
+        background:linear-gradient(#212121,#EC407A);
+    }
+
+    
